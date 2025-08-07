@@ -1,6 +1,6 @@
 # GPLCrypter:
 
-```
+```ruby
 Compiler    : Delphi7
 Components  : GP_Intrf.pas, GP_Wrapper.pas
 Discription : File & String Hash Crypter
@@ -8,7 +8,7 @@ Last Update : 08/2025
 License     : Freeware
 ```
 
-```
+```Pascal
 Important:
 If the compiler generates an internal error during compilation, direct compilation will not work.
 
