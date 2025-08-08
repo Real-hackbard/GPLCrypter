@@ -1,7 +1,7 @@
 # GPLCrypter:
 
 ```ruby
-Compiler    : Delphi7
+Compiler    : Delphi7 (or Higher)
 Components  : GP_Intrf.pas, GP_Wrapper.pas
 Discription : File & String Hash Crypter
 Last Update : 08/2025
