@@ -10,8 +10,8 @@
 
 </br>
 
+### Important:
 ```Pascal
-Important:
 If the compiler generates an internal error during compilation, direct compilation will not work.
 
 # Solution:
